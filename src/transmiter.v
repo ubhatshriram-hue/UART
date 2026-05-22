@@ -1,4 +1,4 @@
-:
+
 `timescale 1ns / 1ps
 
 module transmitter #(parameter WIDTH = 8) (
